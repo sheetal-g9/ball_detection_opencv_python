@@ -1,3 +1,4 @@
+# running using python3.6
 # python ball_tracking.py --video ball.mp4
 
 
